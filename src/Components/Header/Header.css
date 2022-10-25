@@ -1,0 +1,16 @@
+.header a
+{
+    text-decoration: none;
+    margin-right: 15px;
+    padding: 5px 10px;
+    color: rgb(255, 106, 0);
+    text-transform: uppercase;
+    background-color: rgba(255, 255, 255, 0.156);
+    border-radius: 2px;
+}
+.header
+{
+    background-color: black;
+    line-height: 50px;
+
+}
